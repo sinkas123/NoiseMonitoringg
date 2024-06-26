@@ -1,0 +1,5 @@
+librosa
+numpy
+matplotlib
+soundfile
+soxr==0.4.0b1
